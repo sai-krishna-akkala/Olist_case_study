@@ -25,7 +25,7 @@ git clone https://github.com/your-username/olist-case-study.git
 
 Run the Python ETL script:
 
-python python/load_to_mysql.py
+python python/script_to_load.ipynb
 
 3. Run SQL Scripts
 
@@ -36,6 +36,22 @@ Import tables, create indexes, and create views:
 4. Open Power BI Dashboard
 
 Load the .pbix file and update your MySQL connection.
+
+## 📈 Results & Insights
+
+Weekend are performing sales higher than that of weekday sales.
+
+Sao Paulo and Rio de Janeiro generated the highest revenue.
+
+Faster deliveries were linked to better review scores.
+
+Pet shop products showed strong delivery performance.
+
+Monthly revenue displayed clear seasonal trends.
+
+Top product categories contributed most to overall sales.
+
+City-based RLS allowed secure, location-specific dashboard access.
 
 
 
