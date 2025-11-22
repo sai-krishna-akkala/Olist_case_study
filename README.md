@@ -3,7 +3,7 @@ I built this project as a complete end-to-end analytics solution using the Olist
 Screenshot
 ![Dashboard Preview](images/dashboard.png)
 
-🚀 Features
+## 🚀 Features
 
 Complete ETL pipeline using Python
 
@@ -16,6 +16,26 @@ Power BI interactive dashboard
 City-based Row Level Security (RLS)
 
 Clean, modular, and reusable project structure
+
+## 📦 How to Run This Project
+1. Clone the Repository
+git clone https://github.com/your-username/olist-case-study.git
+
+2. Load Data into MySQL
+
+Run the Python ETL script:
+
+python python/load_to_mysql.py
+
+3. Run SQL Scripts
+
+Import tables, create indexes, and create views:
+
+/sql/.sql
+
+4. Open Power BI Dashboard
+
+Load the .pbix file and update your MySQL connection.
 
 
 
