@@ -1,2 +1,1 @@
-# Olist_case_study
-It a case 
+I built this project as a complete end-to-end analytics solution using the Olist E-commerce dataset. I used Python to load and clean the data, stored everything in MySQL, and created SQL views for analysis. Then I connected those views to Power BI to build an interactive dashboard with KPIs, sales trends, and delivery insights. I also implemented city-based Row Level Security (RLS) so different users can only see data for their own city.
