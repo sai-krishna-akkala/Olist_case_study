@@ -3,4 +3,19 @@ I built this project as a complete end-to-end analytics solution using the Olist
 Screenshot
 ![Dashboard Preview](images/dashboard.png)
 
+🚀 Features
+
+Complete ETL pipeline using Python
+
+MySQL database with optimized tables and SQL views
+
+Analytical SQL queries for KPIs and business insights
+
+Power BI interactive dashboard
+
+City-based Row Level Security (RLS)
+
+Clean, modular, and reusable project structure
+
+
 
